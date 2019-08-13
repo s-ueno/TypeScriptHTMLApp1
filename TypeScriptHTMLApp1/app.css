@@ -1,0 +1,19 @@
+﻿body {
+}
+
+span {
+    font-style: italic;
+}
+
+.flex-container {
+    display: -webkit-flex;
+    display: flex;
+}
+
+.flex-item {
+    display: -webkit-flex;
+    display: flex;
+
+    align-items: center;
+    flex: 1;
+}

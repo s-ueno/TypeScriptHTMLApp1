@@ -21,3 +21,12 @@ $RECYCLE.BIN/
 # =========================
 # Operating System Files
 # =========================
+.vs/**/*.*
+
+TypeScriptHTMLApp1/app.js
+TypeScriptHTMLApp1/app.js.map
+TypeScriptHTMLApp1/bin/*.*
+TypeScriptHTMLApp1/obj/**/*.*
+TypeScriptHTMLApp1/TypeScriptHTMLApp1.csproj.user
+TypeScriptHTMLApp1/Web.Debug.config
+TypeScriptHTMLApp1/Web.Release.config
